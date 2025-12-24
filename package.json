@@ -1,0 +1,19 @@
+{
+  "name": "youplayz",
+  "version": "1.0.0",
+  "description": "Jacascript backend using node, express, mongodb",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "youplayz"
+  ],
+  "license": "ISC",
+  "author": "Aayush Singh Rathore",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
